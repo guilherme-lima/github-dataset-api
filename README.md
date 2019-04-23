@@ -1,1 +1,1 @@
-github
+# HackerRank Code Challenge
